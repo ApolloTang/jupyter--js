@@ -1,0 +1,1 @@
+ [JavaScript printf equivalent · CoreUI](https://coreui.io/blog/what-is-javascript-printf-equivalent/#:~:text=Although%20JavaScript%20has%20no%20direct,functions%2C%20and%20the%20versatile%20console.) 
